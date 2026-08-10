@@ -22,7 +22,7 @@ A machine learning pipeline built for the **OctWave 3.0 Credit Card Fraud Detect
 
 ## 🎯 The Problem
 
-Credit card fraud is a classic *needle-in-a-haystack* problem: fraudulent transactions are rare, patterns shift constantly, and the cost of a false negative (missed fraud) vastly outweighs the cost of a false positive (flagged legit transaction). This challenge is about building a model that can tell the difference — reliably, and at scale.
+Credit card fraud is a classic *needle in a haystack* problem: fraudulent transactions are rare, patterns shift constantly, and the cost of a false negative (missed fraud) vastly outweighs the cost of a false positive (flagged legit transaction). This challenge is about building a model that can tell the difference reliably, and at scale.
 
 ## 🛠️ The Approach
 
