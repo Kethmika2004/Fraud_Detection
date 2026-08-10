@@ -2,6 +2,8 @@
 
 > *Somewhere in a sea of legitimate transactions, a handful of frauds are hiding. This is the hunt.*
 
+<img width="1537" height="1023" alt="ChatGPT Image Aug 11, 2026, 01_19_02 AM" src="https://github.com/user-attachments/assets/299c9659-4ddd-402b-ad92-05a80444f3bc" />
+
 A machine learning pipeline built for the **OctWave 3.0 Credit Card Fraud Detection Challenge**, tuned and evaluated on **F1-score** because in fraud detection, missing the needle in the haystack is far more costly than a false alarm.
 
 ---
