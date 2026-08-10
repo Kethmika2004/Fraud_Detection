@@ -31,18 +31,24 @@ Credit card fraud is a classic *needle-in-a-haystack* problem: fraudulent transa
 5. **Validation** - out-of-fold (OOF) predictions to get an honest, leak-free estimate of performance
 
 ## 📊 Results
-
+ 
 ```
 Out-of-Fold F1-Score: 0.9959
 ```
-
+ 
 A high precision, high recall model built to catch fraud without crying wolf.
+ 
+<img width="1615" height="612" alt="Screenshot 2026-08-10 234359" src="https://github.com/user-attachments/assets/671de311-c229-4414-a083-e1795aec99bb" />
+
+*Left: the precision recall curve stays near perfect across almost the entire recall range before collapsing sharply at the extreme tail. Right: F1-score peaks at a decision threshold of **0.660**, which is what the model uses to separate fraud from legitimate transactions.*
 
 ## 📁 Repo Structure
 
 ```
 octwave_26/
 ├── OctWave_Fraud_Detection_LightGBM_Optuna.ipynb   # Main pipeline: EDA → FE → LightGBM → Optuna tuning
+├── OctWave_Fraud_Detection_LightGBM_Optuna.py      # Main pipeline: EDA → FE → LightGBM → Optuna tuning
+├── Fraud_Detection.ipynb                           # Basic one
 └── README.md
 ```
 
