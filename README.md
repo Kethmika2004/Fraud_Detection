@@ -2,7 +2,7 @@
 
 > *Somewhere in a sea of legitimate transactions, a handful of frauds are hiding. This is the hunt.*
 
-A machine learning pipeline built for the **OctWave 3.0 Credit Card Fraud Detection Challenge**, tuned and evaluated on **F1-score** — because in fraud detection, missing the needle in the haystack is far more costly than a false alarm.
+A machine learning pipeline built for the **OctWave 3.0 Credit Card Fraud Detection Challenge**, tuned and evaluated on **F1-score** because in fraud detection, missing the needle in the haystack is far more costly than a false alarm.
 
 ---
 
@@ -36,7 +36,7 @@ Credit card fraud is a classic *needle-in-a-haystack* problem: fraudulent transa
 Out-of-Fold F1-Score: 0.9959
 ```
 
-A high-precision, high-recall model built to catch fraud without crying wolf.
+A high precision, high recall model built to catch fraud without crying wolf.
 
 ## 📁 Repo Structure
 
